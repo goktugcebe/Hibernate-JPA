@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="fa4093b6-e40f-499d-b39a-ebc84a7ca06a" name="Hibernate" url="jdbc:postgresql://localhost/deneme" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
